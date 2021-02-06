@@ -47,6 +47,7 @@ public class AddCourseFragment extends DialogFragment {
                 ((MainActivity)getActivity()).updateList();
                 getDialog().dismiss();
                 // This is a comment to demonstrate multiple commits.
+                // The comment above isn't useful.
             }
         });
 
