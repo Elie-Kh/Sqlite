@@ -46,6 +46,7 @@ public class AddCourseFragment extends DialogFragment {
                 dbHelper.insertCourse(course);
                 ((MainActivity)getActivity()).updateList();
                 getDialog().dismiss();
+                // This is a comment to demonstrate multiple commits.
             }
         });
 
