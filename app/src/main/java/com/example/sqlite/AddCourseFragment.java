@@ -48,6 +48,7 @@ public class AddCourseFragment extends DialogFragment {
                 getDialog().dismiss();
                 // This is a comment to demonstrate multiple commits.
                 // The comment above isn't useful.
+                // Third useless comment.
             }
         });
 
